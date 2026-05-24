@@ -1,0 +1,264 @@
+# 汉字 zh-CN
+-
+  font-size: 12
+  dir-from: zh-cn/4E00-9FFF CJK Unified Ideographs
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/3400-4DBF CJK Unified Ideographs Extension A
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/20000-2A6DF CJK Unified Ideographs Extension B
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/2A700-2B73F CJK Unified Ideographs Extension C
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/2B740-2B81F CJK Unified Ideographs Extension D
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/2B820-2CEAF CJK Unified Ideographs Extension E
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/30000-3134F CJK Unified Ideographs Extension G
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: zh-cn/2EBF0-2EE5F CJK Unified Ideographs Extension I
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+
+
+# 汉字 ja
+-
+  font-size: 12
+  dir-from: ja/4E00-9FFF CJK Unified Ideographs
+  width-mode-dir-name: common
+  flavors: ja
+-
+  font-size: 12
+  dir-from: ja/3400-4DBF CJK Unified Ideographs Extension A
+  width-mode-dir-name: common
+  flavors: ja
+-
+  font-size: 12
+  dir-from: ja/20000-2A6DF CJK Unified Ideographs Extension B
+  width-mode-dir-name: common
+  flavors: ja
+
+
+# 汉字 ko
+-
+  font-size: 12
+  dir-from: ko/4E00-9FFF CJK Unified Ideographs
+  width-mode-dir-name: common
+  flavors: ko
+-
+  font-size: 12
+  dir-from: ko/3400-4DBF CJK Unified Ideographs Extension A
+  width-mode-dir-name: common
+  flavors: ko
+-
+  font-size: 12
+  dir-from: ko/20000-2A6DF CJK Unified Ideographs Extension B
+  width-mode-dir-name: common
+  flavors: ko
+
+
+# 日语假名
+-
+  font-size: 12
+  dir-from: ja/3040-309F Hiragana
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/30A0-30FF Katakana
+  width-mode-dir-name: common
+
+
+# 谚文
+-
+  font-size: 12
+  dir-from: ko/AC00-D7AF Hangul Syllables
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ko/3130-318F Hangul Compatibility Jamo
+  width-mode-dir-name: common
+
+
+# 杂项
+-
+  font-size: 12
+  dir-from: ko/02B0-02FF Spacing Modifier Letters
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/2000-206F General Punctuation
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: ja/2000-206F General Punctuation
+  width-mode-dir-name: common
+  flavors: ja,ko
+-
+  font-size: 12
+  dir-from: ko/2070-209F Superscripts and Subscripts
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ko/20A0-20CF Currency Symbols
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/2100-214F Letterlike Symbols
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ko/2150-218F Number Forms
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/2190-21FF Arrows
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/2200-22FF Mathematical Operators
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/2300-23FF Miscellaneous Technical
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/2400-243F Control Pictures
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/2460-24FF Enclosed Alphanumerics
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: ja/2460-24FF Enclosed Alphanumerics
+  width-mode-dir-name: common
+  flavors: ja
+-
+  font-size: 12
+  dir-from: ko/2460-24FF Enclosed Alphanumerics
+  width-mode-dir-name: common
+  flavors: ko
+-
+  font-size: 12
+  dir-from: ko/2500-257F Box Drawing
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ko/2580-259F Block Elements
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ko/25A0-25FF Geometric Shapes
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/2600-26FF Miscellaneous Symbols
+  width-mode-dir-name: common
+  flavors: ja
+-
+  font-size: 12
+  dir-from: ko/2600-26FF Miscellaneous Symbols
+  width-mode-dir-name: common
+  flavors: ko
+-
+  font-size: 12
+  dir-from: ja/2700-27BF Dingbats
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/2900-297F Supplemental Arrows-B
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/3000-303F CJK Symbols and Punctuation
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: ja/3000-303F CJK Symbols and Punctuation
+  width-mode-dir-name: common
+  flavors: ja,ko
+-
+  font-size: 12
+  dir-from: zh-cn/3200-32FF Enclosed CJK Letters and Months
+  width-mode-dir-name: common
+  flavors: zh_hk,zh_tw,zh_tr
+-
+  font-size: 12
+  dir-from: ko/3200-32FF Enclosed CJK Letters and Months
+  width-mode-dir-name: common
+  flavors: ko
+-
+  font-size: 12
+  dir-from: ko/3300-33FF CJK Compatibility
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/F900-FAFF CJK Compatibility Ideographs
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/FE10-FE1F Vertical Forms
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: zh-cn/FE30-FE4F CJK Compatibility Forms
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/FF00-FFEF Halfwidth and Fullwidth Forms
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/1F300-1F5FF Miscellaneous Symbols and Pictographs
+  width-mode-dir-name: common
+
+
+# 等宽
+-
+  font-size: 12
+  dir-from: ja/0000-007F Basic Latin
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/0080-00FF Latin-1 Supplement
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/0100-017F Latin Extended-A
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/0180-024F Latin Extended-B
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/0370-03FF Greek and Coptic
+  width-mode-dir-name: common
+-
+  font-size: 12
+  dir-from: ja/0400-04FF Cyrillic
+  width-mode-dir-name: common

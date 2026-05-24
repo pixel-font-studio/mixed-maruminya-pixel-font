@@ -1,0 +1,15 @@
+x12y12pxMaruMinya:
+  -
+    font-file-name: x12y12pxMaruMinya.ttf
+    dump-dir-name: ja
+    font-size: 12
+x12y12pxMaruMinyaHangul:
+  -
+    font-file-name: x12y12pxMaruMinyaHangul.ttf
+    dump-dir-name: ko
+    font-size: 12
+ZLabs-RoundPix-12px:
+  -
+    font-file-name: ZLabsRoundPix_12px_M_CN.ttf
+    dump-dir-name: zh-cn
+    font-size: 12
