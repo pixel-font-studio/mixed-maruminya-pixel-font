@@ -46,11 +46,11 @@ Logo 捏他自 [《游戏王》](https://zh.wikipedia.org/wiki/%E9%81%8A%E6%88%B
 
 | 版本 | 含义 |
 |---|---|
-| latin | 泛拉丁语 |
+| latin | 拉丁文字环境 |
 | zh_hans | 简体中文 |
 | zh_hant | 繁體中文 |
 | ja | 日语 |
-| ko | 朝鲜语 |
+| ko | 韩语 |
 
 目前语言特定字形支持并不完整。
 
